@@ -1,4 +1,4 @@
-👋 Hello, I'm [Your Name]
+👋 Hello, I'm Hussain Saifuddin
 
 🌐 Web & Hybrid Application Developer | 🚀 3+ Years of Crafting Digital Experiences
 
@@ -37,6 +37,6 @@ I'm always eager to connect with fellow developers, tech enthusiasts, and anyone
 
 📫 Contact Me
 ----------------
-📧 Email: your.email@example.com
-💼 LinkedIn: [Your LinkedIn Profile]
-🌐 Portfolio: [Your Portfolio Website]
+📧 Email: hussainquetta53@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/hussain-saifuddin786/
+🌐 Portfolio: https://hussain-saifuddin.surge.sh/
