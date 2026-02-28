@@ -4,7 +4,8 @@
 
 📌 About Me
 ----------------
-I'm a dedicated web and hybrid application developer with a solid track record of over 3 years in the dynamic world of software development. My journey began with a fascination for technology, and it has since evolved into a true passion for creating innovative and user-centric digital solutions.
+Senior software engineer with 5+ years of expertise in React Native, ReactJS, Next.js, and full stack development. Upwork Top-Rated freelancer with 30+ successfully delivered projects and a 100% client satisfaction score. Published 10+ apps on the App Store and Google Play. Experienced leading teams and working with cross functional teams across international companies in South Korea, Australia, Singapore, Spain,
+and Pakistan. Passionate about delivering exceptional user experiences through clean architecture and cutting edge technologies.
 
 🚀 My Expertise
 ----------------
