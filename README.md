@@ -40,4 +40,4 @@ I'm always eager to connect with fellow developers, tech enthusiasts, and anyone
 ----------------
 📧 Email: hussainquetta53@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/hussain-saifuddin786/
-🌐 Portfolio: https://[hussain-saifuddin.surge.sh
+🌐 Portfolio: https://hussain-saifuddin.surge.sh
